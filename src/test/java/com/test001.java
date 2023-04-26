@@ -10,6 +10,7 @@ public class test001 {
         System.out.println("second commit");
         System.out.println("修改了N次");
         System.out.println("远程库修改的");
+               System.out.println("远程库修改的2");
 }
 
 }
